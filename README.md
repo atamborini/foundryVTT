@@ -8,10 +8,10 @@
 * https://foundryvtt.com/packages/
 * https://github.com/atamborini/foundryVTT/tree/master/WoWHombrewPack
 
-###Description
+### Description
 This Module provides additional homebrew Warcraft content for D&D 5th Edition, to be used in FoundryVTT. More to come!
 
-###Installation Guide
+### Installation Guide
 
 * Open the Foundry application
 * Go to "Add-On Modules" tab
