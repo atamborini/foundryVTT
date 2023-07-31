@@ -13,12 +13,12 @@ This Module provides additional homebrew Warcraft content for D&D 5th Edition, t
 
 ###Installation Guide
 
-Open the Foundry application
-Go to "Add-On Modules" tab
-Click "Install Module" button at the bottom.
-Paste the following link: 
-Click "Install"
-Activat the module in your World using Manage Modules under the Game Setting tab.
+* Open the Foundry application
+* Go to "Add-On Modules" tab
+* Click "Install Module" button at the bottom.
+* Paste the following link: 
+* Click "Install"
+* Activat the module in your World using Manage Modules under the Game Setting tab.
 
 ### License and Credits
 Every single addition included in the module take inspiration from existing Warcraft Universe created by Blizzard.
