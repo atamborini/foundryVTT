@@ -1,0 +1,78 @@
+{
+	"id": "WoWHomebrewPack",
+	"name": "WoWHomebrewPack",
+	"title": "Warcraft Homebrew Compendium",
+	"description": "A module that adds Warcraft World additional homebrewed content for your dnd5e games. Classes, subclasses, races, feats, spells, items, you know it!",
+	"authors": [{"name":"atamborini"}],
+	"version": "0.1.0",
+	"compatibility": {
+		"minimum": "9",
+		"verified": "11"
+	},
+	"minimumCoreVersion": "9",
+	"compatibleCoreVersion": "11",
+	"url": "https://github.com/atamborini/foundryVTT/tree/master/WoWHomebrewPack",
+	"download": "https://github.com/atamborini/foundryVTT/archive/master.zip",
+	"system": "dnd5e",
+	"manifest": "https://raw.githubusercontent.com/atamborini/foundryVTT/master/WoWHomebrewPack/module.json",
+	"readme": "https://github.com/atamborini/foundryVTT/blob/master/README.md",
+	"changelog": "https://github.com/atamborini/foundryVTT/blob/master/CHANGELOG.md",
+	"packs": [
+		{
+			"name": "items",
+			"label": "Items",
+			"system": "dnd5e",
+			"path": "packs/items.db",
+			"type": "Item"
+		},
+		{
+			"name": "spells",
+			"label": "Spells",
+			"system": "dnd5e",
+			"path": "packs/spells.db",
+			"type": "Item"
+		},
+		{
+			"name": "tables",
+			"label": "Tables",
+			"system": "dnd5e",
+			"path": "packs/tables.db",
+			"type": "RollTable"
+		},
+		{
+			"name": "conditions",
+			"label": "Conditions",
+			"system": "dnd5e",
+			"path": "packs/conditions.db",
+			"type": "JournalEntry"
+		},
+		{
+			"name": "feats",
+			"label": "Feats",
+			"system": "dnd5e",
+			"path": "packs/feats.db",
+			"type": "Item"
+		},
+		{
+			"name": "classes",
+			"label": "Classes",
+			"system": "dnd5e",
+			"path": "packs/classes.db",
+			"type": "Item"
+		},
+		{
+			"name": "class-features",
+			"label": "Class Features",
+			"system": "dnd5e",
+			"path": "packs/class-features.db",
+			"type": "Item"
+		},
+		{
+			"name": "races",
+			"label": "Races",
+			"system": "dnd5e",
+			"path": "packs/races.db",
+			"type": "Item"
+		}
+	]
+}
