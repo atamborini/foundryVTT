@@ -1,12 +1,12 @@
 # Warcraft Homebrew Compendium
 
-Author: atamborini
-Version: 0.1.0
-Foundry VTT Compatibility: 11.x
-System Compatibility: D&D 5th Edition 2.2.1
+* Author: atamborini
+* Version: 0.1.0
+* Foundry VTT Compatibility: 11.x
+* System Compatibility: D&D 5th Edition 2.2.1
 ### Link(s) to Module
-https://foundryvtt.com/packages/
-https://github.com/atamborini/foundryVTT/tree/master/WoWHombrewPack
+* https://foundryvtt.com/packages/
+* https://github.com/atamborini/foundryVTT/tree/master/WoWHombrewPack
 
 ###Description
 This Module provides additional homebrew Warcraft content for D&D 5th Edition, to be used in FoundryVTT. More to come!
